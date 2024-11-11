@@ -1,0 +1,10 @@
+.bannerbg{
+    background-image: url('../../assets/images/iCareIndia_Banner1_bg.jpg');
+    background-position: center;
+    background-size:cover;
+    background-position-x:right ;
+}
+
+.textbox{
+    background-color: rgba(0, 0, 0, 0.513);
+}
